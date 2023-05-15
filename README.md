@@ -1,29 +1,80 @@
-Lineas generales del trabajo en ramas:
-- Tips rápido para inicar un proyecto:
-1. Una vez inciado el repositorío en Github, copiamos el link del repo en HTTP, y dirigiendonos desde la consola a la carpeta en local, escribiremos: $ git clone <link del repositorio>.
-2. Recordar que una vez clonado, tendremos que bajar un nivel más de subcartera
+# PROYECTO EJ1 TECKELS
 
-- Cómo crear ramas - (solo necesario una vez por dev!)
-1. Creamos la rama: <b>rama main</b> ---> git branch <nombre-de-la-rama>
-2. Cambiar a nuestra propia rama para trabajar: <b>rama main</b> ---> git checkout <nombre-de-la-rama>
+## Descripción
 
-- Cómo comitear trabajando en ramas:
-1. Dev1 guarda cambios: <b>rama dev1</b> ---> git add . ; git commit -m "commit message".
-2. Dev1 cambia de rama: <b>rama dev1</b> ---> git checkout develop.
-3. Dev1 mergea el código de su rama a la rama principal: <b>rama develop</b> ---> git merge --no-ff dev1.
-4. Dev1 sube los cambios de su rama principal a repo remoto: <b>rama develop</b> ---> git push origin develop.
-5. Dev2 guarda cambios: <b>rama dev2</b> ---> git add . ; git commit -m "commit message".
-6. Dev2 cambia de rama: <b>rama dev2</b> ---> git checkout develop.
-7. Dev2 mergea el código de su rama a la rama principal: <b>rama develop</b> ---> git merge --no-ff dev2.
-8. Dev2 se baja los cambios del repo remoto a su rama principal: <b>rama develop</b> ---> git pull origin develop.
-9. (Si hay conflictos, dev2 deberá solucionarlos y guardarlos: git add . ; git commit -m "commit message").
-10. Dev2 sube su rama principal ya fusionada a remoto: <b>rama develop</b> ---> git push origin develop.
-11. Dev1 se baja el código de remoto ya fusionado y sin conflicto: <b>rama develop</b> ---> git pull origin develop.
-12. Ambos dev van a sus ramas: <b>rama develop</b> ---> git checkout dev1/dev2/dev3/...
-13. Ambos dev fusionan el código de la rama principal a la suya: <b>rama dev1/dev2</b> ---> git merge develop.
+Una tienda de animales nos pide, como agencia, la creación de una landing page estática para anunciar sus productos, así como una sección en la que anunciar sus últimas noticias y servicios (veterinarios, peluquería, adiestramiento, etc…).
 
-Name rama de trabajo: develop
+El diseño de la web es libre (UX/UI, Layout, colores, fuentes…), debiendo desarrollar un primer boceto en Figma y validarlo con el cliente (formador) antes de su desarrollo, aunque sea un wireframe.
 
-En caso de ser más desarrolladores trabajando sobre el mismo proyecto, repetiríamos los pasos sustituyendo el dev2, por un nuevo dev3, etc. empezaría en el punto 5 hasta el 9, al fusionar todos los códigos con el develop, seguiríamos todos con el punto 11 en adelante.
+Requisitos mínimos que debe incluir la página:
+
+- Un encabezado con el logotipo de la tienda y su nombre (si fuera necesario)
+- Un menú de navegación para moverse entre las diferentes secciones
+- Un banner para mostrar algunos de los servicios.
+- Una sección donde se muestren 6 productos:
+  - Imagen
+  - Título
+  - Precio
+  - Botón de compra
+- Formulario de consulta.
+- Un pie de página que incluya el copyright y el nombre de la tienda.
+
+## Modalidades pedagógicas
+
+- Creación de equipos
+- Sprint de una semana
+- Marco de trabajo SCRUM (Roles, Daily, Planning, Retrospective…)
+- Herramientas de gestión (Trello, Github)
+- Buenas prácticas HTML y CSS (Semántica, Responsive Mobile first…)
+- WireFrame - Mockup - UX/UI en Figma
+- Utilizar Git para el control de versiones
+- Añadir un Readme al repositorio con la información importante del proyecto.
+- Si sobra tiempo, se puede desarrollar la página de producto.
+
+## Instalación
+
+Se puede probar la web tanto clonando el repositorio como descargando el archivo zip con todos los archivos
+
+## Tecnologías 
+
+ <p align="center">
+ <img src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></img>
+ <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
+ <img src= "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></img>
+ </p>
+ 
+ ## Grupo de trabajo
+ 
+ + [Víctor](https://github.com/oliverio89) (Product Owner)
+ + [Dalia](https://github.com/seisporseis) (Scrum Master)
+ + [José](https://github.com/Cabbani) (Scrum Team)
+ + [Daniel](https://github.com/DanielDW23) (Scrum Team)
+ + [Silvio](https://github.com/kurzerhand) (Scrum Team)
+ + [Carla](https://github.com/carla0921) (Scrum Team)
+
+## Capturas de pantalla
+
+### FIGMA
+
+<p align="center" >
+ 
+ <img src="https://github.com/DanielDW23/Proyecto_en_grupo--Ej1-Teckels/assets/126791645/fd49fa75-b374-43f4-8a25-aa24416a794b" width="500" />
+ <img src="https://github.com/DanielDW23/Proyecto_en_grupo--Ej1-Teckels/assets/126791645/02483a5c-04fe-457b-abfd-5ddd9c86ce1d" width="500" />
+</p>
+
+  ### WEB
+  
+  <p align="center" >
+  
+ <img src="https://github.com/DanielDW23/Proyecto_en_grupo--Ej1-Teckels/assets/126791645/187cc4f5-04d4-40b7-b6da-104b50cbb82a" width="750" />
+    
+  
+ <img src="https://github.com/DanielDW23/Proyecto_en_grupo--Ej1-Teckels/assets/126791645/a26259c0-b653-4640-bf99-0cd86ae33eac" width="270" />
+ <img src="https://github.com/DanielDW23/Proyecto_en_grupo--Ej1-Teckels/assets/126791645/592636ca-3f09-4c3b-a667-f93590331dcf" width="270" />
+
+</p>
+
+
+ 
 
 
