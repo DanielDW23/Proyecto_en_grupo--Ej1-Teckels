@@ -58,23 +58,24 @@ Se puede probar la web tanto clonando el repositorio como descargando el archivo
 
 <p align="center" >
  
- <img src="https://github.com/DanielDW23/Proyecto_en_grupo--Ej1-Teckels/assets/126791645/fd49fa75-b374-43f4-8a25-aa24416a794b" width="500" />
- <img src="https://github.com/DanielDW23/Proyecto_en_grupo--Ej1-Teckels/assets/126791645/02483a5c-04fe-457b-abfd-5ddd9c86ce1d" width="500" />
+ <img src="https://github.com/DanielDW23/Proyecto_en_grupo--Ej1-Teckels/assets/126791645/dda54dd8-a808-4e31-bb75-c468661cafdc" width="500" />
+ <img src="https://github.com/DanielDW23/Proyecto_en_grupo--Ej1-Teckels/assets/126791645/3239fc09-2234-4dfd-8bb1-6e0a199d3666" width="500" />
 </p>
 
   ### WEB
   
   <p align="center" >
   
- <img src="https://github.com/DanielDW23/Proyecto_en_grupo--Ej1-Teckels/assets/126791645/187cc4f5-04d4-40b7-b6da-104b50cbb82a" width="750" />
+ <img src="https://github.com/DanielDW23/Proyecto_en_grupo--Ej1-Teckels/assets/126791645/e12691f6-a6b5-4d15-8098-3332d073d8ba" width="750" />
     
   
- <img src="https://github.com/DanielDW23/Proyecto_en_grupo--Ej1-Teckels/assets/126791645/a26259c0-b653-4640-bf99-0cd86ae33eac" width="270" />
- <img src="https://github.com/DanielDW23/Proyecto_en_grupo--Ej1-Teckels/assets/126791645/592636ca-3f09-4c3b-a667-f93590331dcf" width="270" />
+ <img src="https://github.com/DanielDW23/Proyecto_en_grupo--Ej1-Teckels/assets/126791645/277b2b6b-f2fd-49dc-98c6-00b6904eda58" width="270" />
+ <img src=https://github.com/DanielDW23/Proyecto_en_grupo--Ej1-Teckels/assets/126791645/8dcbeb5b-acb7-4f2d-82ad-31382f70c016" width="270" />
 
 </p>
 
 
  
+
 
 
